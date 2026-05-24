@@ -128,7 +128,7 @@ To run locally:
 **Jordan Kurzweil**
 M.S. Business Administration candidate, Pace University (Lubin School of Business) — August 2026
 Google Data Analytics Certificate · SABR Analytics Certification Levels I–IV
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [GitHub](https://github.com/jordantaylorkurzweil-hash)
+[LinkedIn](https://linkedin.com/in/jordantkurzweil) · [GitHub](https://github.com/jordantaylorkurzweil-hash)
 
 ---
 
